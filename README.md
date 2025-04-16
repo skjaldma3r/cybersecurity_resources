@@ -3,24 +3,24 @@
 ## Table of Contents
 
 #### Resources
-#### [Certifications](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#certifications-1)
-#### [Training](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#ctraining-1)
-#### [CTF Walk Throughs](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#ctf-walk-throughs-1)
-#### [CTFs](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#ctfs-1)
-#### [APTs](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#apts-1)
-#### [Red Team](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#red-team-1)
-#### [Pen Testing Frameworks](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#pen-testing-frameworks-1)
-#### [Blue Team](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#blue-team-1)
-#### [Blue Team Tools](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#blue-team-tools-1)
-#### [DFIR](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#DFIR-1)
-#### [OSINT](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#OSINT-1)
-#### [CTI](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#CTI-1)
-#### [Training](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#training-1)
-#### [Additional Resources](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#additional-resources-1)
-#### [Names to Follow](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#names-to-follow-1)
-#### [Twitter](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#twitter-1)
-#### [Podcasts](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#podcasts-1)
-#### [Note](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#Note-1)
+#### [Certifications](https://github.com/skjaldma3r/cybersecurity_resources/blob/master/README.md#certifications-1)
+#### [Training](https://github.com/skjaldma3r/cybersecurity_resources/blob/master/README.md#ctraining-1)
+#### [CTF Walk Throughs](https://github.com/skjaldma3r/cybersecurity_resources/blob/master/README.md#ctf-walk-throughs-1)
+#### [CTFs](https://github.com/skjaldma3r/cybersecurity_resources/blob/master/README.md#ctfs-1)
+#### [APTs](https://github.com/skjaldma3r/cybersecurity_resources/blob/master/README.md#apts-1)
+#### [Red Team](https://github.com/skjaldma3r/cybersecurity_resources/blob/master/README.md#red-team-1)
+#### [Pen Testing Frameworks](https://github.com/skjaldma3r/cybersecurity_resources/blob/master/README.md#pen-testing-frameworks-1)
+#### [Blue Team](https://github.com/skjaldma3r/cybersecurity_resources/blob/master/README.md#blue-team-1)
+#### [Blue Team Tools](https://github.com/skjaldma3r/cybersecurity_resources/blob/master/README.md#blue-team-tools-1)
+#### [DFIR](https://github.com/skjaldma3r/cybersecurity_resources/blob/master/README.md#DFIR-1)
+#### [OSINT](https://github.com/skjaldma3r/cybersecurity_resources/blob/master/README.md#OSINT-1)
+#### [CTI](https://github.com/skjaldma3r/cybersecurity_resources/blob/master/README.md#CTI-1)
+#### [Training](https://github.com/skjaldma3r/cybersecurity_resources/blob/master/README.md#training-1)
+#### [Additional Resources](https://github.com/skjaldma3r/cybersecurity_resources/blob/master/README.md#additional-resources-1)
+#### [Names to Follow](https://github.com/skjaldma3r/cybersecurity_resources/blob/master/README.md#names-to-follow-1)
+#### [Twitter](https://github.com/skjaldma3r/cybersecurity_resources/blob/master/README.md#twitter-1)
+#### [Podcasts](https://github.com/skjaldma3r/cybersecurity_resources/blob/master/README.md#podcasts-1)
+#### [Note](https://github.com/skjaldma3r/cybersecurity_resources/blob/master/README.md#Note-1)
 
 ### Resources
 
@@ -474,4 +474,4 @@
 
 Disclaimer, I do not support, encourage, partake, or condone hacking, attacking or targeting users of any kind. This information is clearly meant to help cybersecurity teams do their jobs and learn skills necessary for Redteam/Blueteam activities.
 
-### [Back to top](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#my-infosec-resources)
+### [Back to top](https://github.com/skjaldma3r/cybersecurity_resources/blob/master/README.md#my-infosec-resources)
