@@ -1,4 +1,4 @@
-# cybersecurity_resources
+# Cybersecurity Resources
 
 ## Table of Contents
 
