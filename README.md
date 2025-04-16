@@ -29,11 +29,6 @@
 |---|---|
 | Red Siege | [Red Siege](https://redsiege.com/training-penetration-testing-201/) |
 
-### Training
-| Name | Description |
-|---|---|
-| Red Siege | [Red Siege](https://redsiege.com/training-penetration-testing-201/) |
-
 #### CTF Walk Throughs
 
 | Name | Description |
@@ -42,7 +37,6 @@
 | OpenSOC Write Up | [OpenSOC Write Up](https://infosecwriteups.com/defcon-28-opensoc-blue-team-ctf-lessons-and-tips-765718c12273) |
 | Blue Team Villiage OpenSOC Write Up | [Blue Team Villiage OpenSOC](https://blog.reconinfosec.com/the-infrastructure-ii/) |
 | Awesome CTF Cheatsheet | [Awesome CTF Cheatsheet](https://github.com/uppusaikiran/awesome-ctf-cheatsheet#awesome-ctf-cheatsheet-) |
-
 
 #### CTF's
 
@@ -245,6 +239,7 @@
 | Cisco Live on Demand | [Cisco Live on Demand](https://www.ciscolive.com/on-demand/on-demand-library.html?search=Securex#/video/1636411305320002rNJE) |
 | Game of Active Directory | [GOAD](https://github.com/Orange-Cyberdefense/GOAD) |
 | Detection Lab | [Detection Lab](https://github.com/clong/DetectionLab) |
+| Red Siege | [Red Siege](https://redsiege.com/training-penetration-testing-201/) |
 
 ### Additional Resources
 
@@ -450,6 +445,10 @@
 | Name | Description |
 |---|---|
 
+#### Blogs
+| Name | Description |
+|---|---|
+| Red Siege | [Red Siege](https://redsiege.com/red-siege-blog/) |
 
 ### Podcasts
 
