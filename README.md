@@ -450,7 +450,8 @@
 | Name | Description |
 |---|---|
 | Red Siege | [Red Siege](https://redsiege.com/red-siege-blog/) |
-| AntiSyphon| [AntiSyphon](https://www.antisyphontraining.com/blogs/) |
+| AntiSyphon | [AntiSyphon](https://www.antisyphontraining.com/blogs/) |
+| Polito Inc | [Polito Inc](https://www.politoinc.com/blog)) |
 
 ### Podcasts
 
