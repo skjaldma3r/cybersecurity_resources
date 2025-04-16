@@ -240,6 +240,7 @@
 | Game of Active Directory | [GOAD](https://github.com/Orange-Cyberdefense/GOAD) |
 | Detection Lab | [Detection Lab](https://github.com/clong/DetectionLab) |
 | Red Siege | [Red Siege](https://redsiege.com/training-penetration-testing-201/) |
+| AntiSyphon| [AntiSyphon](https://www.antisyphontraining.com/blogs/) |
 
 ### Additional Resources
 
@@ -449,6 +450,7 @@
 | Name | Description |
 |---|---|
 | Red Siege | [Red Siege](https://redsiege.com/red-siege-blog/) |
+| AntiSyphon| [AntiSyphon](https://www.antisyphontraining.com/blogs/) |
 
 ### Podcasts
 
